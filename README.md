@@ -1,42 +1,44 @@
 # Task-management Dashboard📝
-Developed By : franklyn inoma
+Developed By : Pere-ere Enemor
 
 <img src="img/ico.png" alt="Task-management" width="35" height="35">
 
 ## Introduction 🌟
 
-This Task management site organizing, tracking, and completing tasks efficiently and effectively. It involves breaking down projects or goals into smaller, manageable tasks, prioritizing them, assigning them to individuals or teams, and tracking their progress until completion. The goal of task management is to increase productivity, meet deadlines, and achieve desired outcomes.
-
+This task management platform helps you organize, track, and complete tasks efficiently. It allows you to break down projects or objectives into smaller, manageable steps, prioritize them, assign them to team members or individuals, and monitor progress until tasks are completed. The aim of task management is to boost productivity, meet deadlines, and achieve goals.
 
 ## Features 🚀
 
-- ✅ Add tasks with descriptions and due dates.
-- 📅 Organize tasks into four sections: "My Day," "Current Week," "Current Month," and "All Tasks."
-- ✔️ Mark tasks as completed or pending with checkboxes.
-- 🗑️ Delete tasks with a simple click on the trash icon.
-- 📋 Fetch and display user profile data from the "data.txt" file.
-- 🔢 Sort tasks based on due dates in ascending order.
-
+✅ Add tasks with detailed descriptions and due dates.
+📅 Categorize tasks into four sections: "My Day," "Current Week," "Current Month," and "All Tasks."
+✔️ Track task completion using checkboxes to mark tasks as done or pending.
+🗑️ Remove tasks easily by clicking the trash icon.
+📋 Display and access user profile data from the "data.txt" file.
+🔢 Sort tasks by due dates in ascending order.
 
 ## How to Use 📖
 
-1. **Adding a Task:** To add a new task, enter the task description and due date in the input fields provided. Press the "Add" button or press Enter to save the task to the list.
+Adding a Task: To add a task, simply enter the description and due date in the provided fields. Press the "Add" button or hit Enter to save the task to the list.
 
-2. **Sections:** The app offers four sections: "My Day," "Current Week," "Current Month," and "All Tasks." Click on the respective section links to view tasks that match the criteria.
+Sections: The app has four sections: "My Day," "Current Week," "Current Month," and "All Tasks." Click on each section to view tasks that match the respective criteria.
 
-3. **Checkbox:** Each task has a checkbox beside it. Check the box to mark a task as completed. Uncheck it to mark it as pending.
+Checkbox: Every task comes with a checkbox next to it. Check it to mark the task as completed, or uncheck it to mark it as pending.
 
-4. **Delete Task:** To delete a task, click on the trash icon beside the task. A confirmation popup will appear to confirm the deletion.
+Delete Task: To delete a task, click the trash icon next to it. A confirmation message will prompt you to confirm the deletion.
 
-5. **Search Function**: You can search for specific tasks by typing keywords in the search box and pressing Enter. The app will filter and display tasks that match the search query and the section currently selected.
+Search Function: Use the search bar to find tasks by entering relevant keywords. Press Enter to filter and display matching tasks based on your current section.
 
-6. **Updating Profile:** Once you load the page, you will be prompted to create the profile using name and email. This will be stored in local storage.
+Profile Setup: When the page loads, you will be asked to create a profile by entering your name and email. This data will be saved in the local storage.
 
-## Important Notes ⚠️
+##Important Notes ⚠️
 
-- Please ensure to fill both the task description and due date fields before adding a new task.
-- Tasks are sorted based on due dates in ascending order.
-- This app is completely responsive.
-- For the app to work properly, you need to host it on a localhost or a server. Simply opening the index file as a web page won't provide the required functionality.
+Make sure to fill in both the task description and due date before adding a new task.
+Tasks are automatically sorted by their due dates in ascending order.
+The app is fully responsive.
+To use the app properly, you need to host it on a local server or localhost. Opening the index file directly as a web page will not provide full functionality.
+
+
+
+
 
 
