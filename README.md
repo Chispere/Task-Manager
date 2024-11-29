@@ -30,7 +30,7 @@ Search Function: Use the search bar to find tasks by entering relevant keywords.
 
 Profile Setup: When the page loads, you will be asked to create a profile by entering your name and email. This data will be saved in the local storage.
 
-##Important Notes ⚠️
+## Important Notes ⚠️
 
 Make sure to fill in both the task description and due date before adding a new task.
 Tasks are automatically sorted by their due dates in ascending order.
